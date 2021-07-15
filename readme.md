@@ -1,6 +1,6 @@
-#DevelopsToday Test Task
+# DevelopsToday Test Task
 
-##Released all subtasks, scheduling released by simple apscheduler
+## Released all subtasks, scheduling released by simple apscheduler
 
 #### How to run it?
 ```
@@ -23,6 +23,6 @@ as it well
 ```
 
 
-###[&lt;Postman collection&gt;](https://www.postman.com/collections/83aa07aa0660073a450f)
+### [&lt;Postman collection&gt;](https://www.postman.com/collections/83aa07aa0660073a450f)
 
-###[&lt;Heroku deployed&gt;](https://developstoday-posts.herokuapp.com/)
+### [&lt;Heroku deployed&gt;](https://developstoday-posts.herokuapp.com/)
